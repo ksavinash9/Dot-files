@@ -100,4 +100,4 @@ set -g message-bg colour166
 # Set the prefix to ^Q
 set -g prefix ^Q
 # force a reload of the config file
-b
+bind-key ^r source-file ~/.tmux.conf
