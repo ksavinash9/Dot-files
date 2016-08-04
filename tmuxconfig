@@ -101,3 +101,5 @@ set -g message-bg colour166
 set -g prefix ^Q
 # force a reload of the config file
 bind-key ^r source-file ~/.tmux.conf
+#Use Oh My Zsh in terminal prompt
+set-option -g default-shell /bin/zsh
