@@ -98,7 +98,14 @@ set -g message-bg colour166
 ## }
 #
 # Mouse Mode
+# Mouse Mode set default to ON
 set -g mouse on
+## set prefix + m bind to turn on
+bind m \
+set -g mouse on
+## set prefix + M bind to turn on
+bind M \
+set -g mouse off
 #
 # Set the prefix to ^Q
 set -g prefix ^Q
