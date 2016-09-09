@@ -97,6 +97,9 @@ set -g message-bg colour166
 #
 ## }
 #
+# Mouse Mode
+set -g mouse on
+#
 # Set the prefix to ^Q
 set -g prefix ^Q
 # force a reload of the config file
