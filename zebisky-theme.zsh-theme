@@ -13,7 +13,9 @@
 # [Tomorrow Night theme](https://github.com/chriskempson/tomorrow-theme) and, if
 # you're using it on Mac OS X, [iTerm 2](http://www.iterm2.com/) over
 # Terminal.app - it has significantly better color fidelity.
-
+#
+# For Iterm:
+# Use following key bindings: https://stackoverflow.com/questions/6205157/iterm-2-how-to-set-keyboard-shortcuts-to-jump-to-beginning-end-of-line
 # ------------------------------------------------------------------------------
 # CONFIGURATION
 # The default configuration, that can be overwrite in your .zshrc file
